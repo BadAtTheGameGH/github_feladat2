@@ -5,6 +5,7 @@ body {
   background-position-y: center;
   background-attachment: fixed;
   background-size: cover;
+  background-image: url("back.jpg");
 }
 
 #tartalom {
@@ -61,4 +62,14 @@ p {
 
 div > img {
   border: 5px solid rgba(0, 0, 255, 128);
+}
+
+a,a:visited {
+  color: yellow;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  text-decoration: none;
 }
