@@ -61,7 +61,7 @@ p {
 }
 
 div > img {
-  border: 5px solid rgba(0, 0, 255, 128);
+  border: 5px solid rgba(0, 0, 255, 0.5);
 }
 
 a,a:visited {
